@@ -1,0 +1,8 @@
+html, body, div.appRoot, canvas.appCanvas{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+body{
+    height: calc(100% - 3.01px);
+}
